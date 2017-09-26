@@ -1,8 +1,5 @@
- ## Project 4
 
- Patrizia Pain (811-824-070)
- Nick Caamano (811-556-717)
-
+ #Author Nick Caamano
  ## Description
 
  	This program provides the user an interface to create a Huffman Code
