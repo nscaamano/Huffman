@@ -1,5 +1,5 @@
 
- #Author Nick Caamano
+ #Author Nick Caamano and Patrizia Pain
  ## Description
 
  	This program provides the user an interface to create a Huffman Code
